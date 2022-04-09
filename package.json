@@ -12,7 +12,7 @@
         "bootstrap.native": "^2.0.8",
         "highlight.js": "^9.10.0",
         "markdown-it": "^8.3.1",
-        "moment": "^2.17.1",
+        "moment": "^2.29.2",
         "screenfull": "^3.1.0"
     },
     "devDependencies": {
