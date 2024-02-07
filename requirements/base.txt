@@ -1,4 +1,4 @@
-Django==1.11.6
+Django==3.2.24
 djangorestframework==3.7.1
 semantic-version==2.6.0
 djangorestframework-camel-case==0.2.0
